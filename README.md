@@ -1,7 +1,25 @@
-# Koalasation
-My First repository is here!
+# Koalasation be like
 
-Here's nothing special to see, just an empty space for an addicted of programming.
-Hope this project will grow!
-Oh wait, it depends from me. It all depends from me. 
-Considering this it will certainly grow O^O
+
+
+         _________________________
+        / _____________________  /|
+       / / ___________________/ / |
+      / / /| |               / /  |
+     / / / | |              / / . |
+    / / /| | |             / / /| |
+   / / / | | |            / / / | |
+  / / /  | | |           / / /| | |
+ / /_/___| | |__________/ / / | | |
+/________| | |___________/ /  | | |
+| _______| | |__________ | |  | | |
+| | |    | | |_________| | |__| | |
+| | |    | |___________| | |____| |
+| | |   / / ___________| | |_  / /
+| | |  / / /           | | |/ / /
+| | | / / /            | | | / /
+| | |/ / /             | | |/ /
+| | | / /              | | ' /
+| | |/_/_______________| |  /
+| |____________________| | /
+|________________________|/
